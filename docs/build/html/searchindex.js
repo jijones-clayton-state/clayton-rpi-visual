@@ -1,0 +1,1 @@
+Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0},titles:["Welcome to clayton-rpi-visual&#8217;s documentation!"],titleterms:{clayton:0,document:0,indic:0,rpi:0,tabl:0,visual:0,welcom:0}})
