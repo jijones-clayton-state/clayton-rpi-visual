@@ -1,0 +1,19 @@
+*******************
+This is difficult for no reason
+*******************
+
+Crossing my fingers that this works
+
+---------------
+
+camera.py:
+===============
+   
+.. automodule:: camera
+
+---------------
+
+grid.py
+================
+
+.. automodule:: grid

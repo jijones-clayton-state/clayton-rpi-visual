@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # clayton-rpi-visual documentation build configuration file, created by
-# sphinx-quickstart on Tue Jul 14 19:22:39 2015.
+# sphinx-quickstart on Tue Jul 14 19:36:56 2015.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -31,7 +31,6 @@ import shlex
 # ones.
 extensions = [
     'sphinx.ext.autodoc',
-    'sphinx.ext.doctest',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -77,7 +76,7 @@ language = None
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = []
+exclude_patterns = ['_build']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
@@ -285,3 +284,6 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+#adding more stuff!
+sys.path.insert(0, 'C:\\Users\\jijones\\Documents\\GitHub\\clayton-rpi-visual')
