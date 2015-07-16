@@ -12,9 +12,12 @@ Contents:
    :maxdepth: 2
    
 .. automodule:: camera
-.. autoclass:: Camera
-    :members:
 
+.. automodule:: grid
+
+.. automodule:: point2d
+
+.. automodule:: point3d
 
 
 Indices and tables
